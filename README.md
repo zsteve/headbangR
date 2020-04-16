@@ -1,2 +1,2 @@
-# rubidium
+# headbangR
 R Encyclopaedia Metallum API
